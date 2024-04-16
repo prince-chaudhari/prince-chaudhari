@@ -29,9 +29,9 @@
 <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
-```md
-![LeetCode Stats](https://leetcard.jacoblin.cool/chaudhariprince1606?theme=dark&font=ABeeZee)
-```
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/chaudhariprince1606?theme=dark&font=ABeeZee)]
+
 
 ```md
 ![Leetcode Stats](https://leetcard.jacoblin.cool/chaudhariprince1606)
